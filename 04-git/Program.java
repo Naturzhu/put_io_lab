@@ -1,10 +1,10 @@
 //My bicycle is the best!
 class Bicycle {
 
-  // state or field
+  // stan
   private int gear = 6;
 
-  // behavior or method
+  // zachowanie lub metoda
   public void braking() {
     System.out.println("Dzieje sie");
   }
