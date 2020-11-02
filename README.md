@@ -2,3 +2,4 @@
 Dawid Makałowski
 2.11.2020
 feature1
+feature2
