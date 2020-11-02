@@ -1,7 +1,7 @@
 class Bicycle {
 
   // state or field
-  private int gear = 5;
+  private int gear = 6;
 
   // behavior or method
   public void braking() {
