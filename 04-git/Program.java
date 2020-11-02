@@ -1,3 +1,4 @@
+//My bicycle is the best!
 class Bicycle {
 
   // state or field
@@ -5,6 +6,6 @@ class Bicycle {
 
   // behavior or method
   public void braking() {
-    System.out.println("Working of Braking");
+    System.out.println("Dzieje sie");
   }
 }
