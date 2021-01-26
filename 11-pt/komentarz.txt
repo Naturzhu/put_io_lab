@@ -1,0 +1,10 @@
+zadanie1:
+Średnia początkowa: 4076
+Przepustowość początkowa: 1.1/sec
+Zmiana polegała na dodaniu zmiennej w której zapisujemy wyliczoną średnią, przez co nie jest ona liczona w pętli.
+Średnia po zmianie: 36
+Przepustowość po zmianie: 1.8/sec
+
+Zadanie2:
+Przepustowość początkowa: 1.9/sec
+W celu uzyskania żądanej przepustowości proponuje 29 drukarek; dają 5.7/sec, 28 dawało 5.4/sec.
